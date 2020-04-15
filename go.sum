@@ -1,0 +1,4 @@
+github.com/doodles526/syncplayBot/client v0.0.0-20200415001112-6a4629a0072e h1:497MN2PT2qvpZ37OFDkR9tDBNnoK+C6eM3suXmOBedY=
+github.com/doodles526/syncplayBot/client v0.0.0-20200415001112-6a4629a0072e/go.mod h1:53OSDvVab4V49d24YjjbXUf58u9/pKchrITgyspY6WU=
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
